@@ -1,4 +1,4 @@
-# Image Classification Project for Udacity Deep Mind Nano degree
+# Image Classification Project using CIFAR-10 dataset
 
 This is my project submission for the Deep Learning Foundation nano degree by Udacity.
 
